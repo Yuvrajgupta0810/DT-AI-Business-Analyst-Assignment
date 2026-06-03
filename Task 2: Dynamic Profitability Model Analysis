@@ -1,0 +1,51 @@
+Task 2: Dynamic Profitability Model Analysis
+
+Overview
+
+A dynamic profitability model was developed to evaluate the financial viability of Amazon advertising campaigns. The model calculates revenue, profit, ACOS, TACOS, and break-even points based on user-defined inputs.
+
+Base Scenario
+
+Inputs:
+
+- Selling Price: ₹800
+- COGS: ₹280
+- Amazon Referral Fee: 12%
+- Monthly Ad Spend: ₹300,000
+- Ad Units Sold: 1,500
+- Organic Units Sold: 2,000
+- Fixed Costs: ₹150,000
+
+Results:
+
+- Gross Margin: ₹520
+- Amazon Fee: ₹96
+- Ad Cost per Unit: ₹200
+- Net Margin (Ad Unit): ₹224
+- Net Margin (Organic Unit): ₹424
+- Total Revenue: ₹2,800,000
+- Monthly Profit: ₹1,034,000
+- ACOS: 25%
+- TACOS: 10.71%
+
+Scenario Analysis
+
+Price Increase (₹950)
+
+Increasing the selling price improves revenue and profitability while reducing TACOS.
+
+Cost Increase (+20% COGS)
+
+Higher product costs reduce margins and decrease overall profitability.
+
+Organic Growth (3,500 Units)
+
+Increased organic sales improve profit and reduce TACOS without additional advertising spend.
+
+Competitive Pricing (₹700 SP)
+
+Reducing price decreases profit margins and may require stronger advertising performance to maintain profitability.
+
+Conclusion
+
+The model demonstrates that long-term profitability depends on balancing pricing strategy, advertising efficiency, operational costs, and organic growth. While advertising drives visibility and sales, sustainable growth comes from improving margins and increasing organic revenue.
